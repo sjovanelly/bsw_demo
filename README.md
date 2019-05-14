@@ -1,4 +1,4 @@
-# README
+# BSW Rails/Webpack 6 Talk code
 
 Uses latest version of Ruby (2.6.x) and Rails 6.
 
